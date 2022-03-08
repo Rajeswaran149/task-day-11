@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Cinzel:wght@400;500;700&family=Josefin+Sans:wght@100;400&family=Mr+Dafoe&family=Redressed&display=swap');
+.font{
+    font-family: 'Mr Dafoe', cursive;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+form{
+    background-color: white;
+    padding: 10px;
+    border: 2px solid black;
+}
+.container{
+    background-color: white;
+    padding: 10px;
+    max-width: 400px;
+}
+.heading{
+    color: white;
+    background-color: red;
+    padding: 5px;
+    margin: 0px;
+}
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-family: 'Bermuda Script';
+    margin: 2px;
+}
+.name{
+    display: flex;
+    justify-content:space-between;
+}
+.check{
+    margin-top: 10px;
+}
